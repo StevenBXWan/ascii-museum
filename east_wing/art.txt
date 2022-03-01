@@ -46,3 +46,22 @@ WWWWW/\| /   \|'/\|/"\
         `//       _,-'                         
 hjm      \____.-''
 ==body:end
+
+==header:signature Jarrod Folino
+==body:start
+               T~~
+               |
+              /"\
+      T~~     |'| T~~
+  T~~ |    T~ WWWW|
+  |  /"\   |  |  |/\T~~
+ /"\ WWW  /"\ |' |WW|
+WWWWW/\| /   \|'/\|/"\
+|   /__\/]WWW[\/__\WWWW
+|"  WWWW'|I_I|'WWWW'  |
+|   |' |/  -  \|' |'  |
+|'  |  |LI=H=LI|' |   |
+|   |' | |[_]| |  |'  |
+|   |  |_|###|_|  |   |
+'---'--'-/___\-'--'---'
+==body:end
